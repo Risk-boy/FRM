@@ -4,8 +4,6 @@
 
 #### 1 Introduction
 
-
-
 #### 2 Derivatives
 
 #### 3 Counterparty Risk and Beyond
